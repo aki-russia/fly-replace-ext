@@ -13,7 +13,7 @@
 [![][mit-badge]][mit]
 
 ## Usage
-> Check out the [documentation](PLUGIN_DOCUMENTATION) to see the available options.
+> Check out the [documentation](https://www.npmjs.com/package/replace-ext) to see the available options.
 
 ### Install
 
